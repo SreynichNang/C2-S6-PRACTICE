@@ -1,8 +1,6 @@
 import React from "react";
-
 function App() {
   /* You will need to use a boolean state to manage the weather */
- 
   function onSunClick() {
     // Complete this code when we click on Sunny Time
   }
